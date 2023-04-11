@@ -35,9 +35,11 @@ type the command ```brew install wget```. If wget is installed, skip this step.
 
 14- After installation, you can open the Burp Suite Professional.app extension program in the Burp Suite Professional.app.zip folder in the Burp-Suite-Professional-for-Mac-OS-main folder.
 
-15- You can copy and paste the .app file from the Finder to the Applications section to make it appear among your applications. You can also drag it to the Dock.
+15- If you change the location of the Burp-Suite-Professional-for-Mac-OS-main folder downloaded to the desktop, you need to run Setup.sh again. After Setup.sh is installed, you can close the opened programs and open the program with the .app extension file. You don't need to license it again.
 
-16- Have a good use :)
+16- You can copy and paste the .app file from the Finder to the Applications section to make it appear among your applications. You can also drag it to the Dock.
+
+17- I explained it in a way that everyone can do it. If you get any errors or have any questions, you can contact me. Good use :)
 
 
 
@@ -75,10 +77,11 @@ sitesini ziyaret edin. Homebrew yüklüyse bu adımı atlayın.
 
 14- Kurulumdan sonra, Burp-Suite-Professional-for-Mac-OS-main klasöründe yer alan Burp Suite Professional.app.zip klasörü içinde yer alan Burp Suite Professional.app uzantılı programı açabilirsiniz. 
 
-15- Uygulamalarınızın arasında gözükmesi için .app Uzantılı dosyayı kopyalayıp Finder'dan Uygulamalar kısmına yapıştırabilirsiniz. Dock'a da sürükleyebilirsiniz.
+15- Eğer masaüstüne indirilen Burp-Suite-Professional-for-Mac-OS-main klasörünün yerini değiştirirseniz, tekrar Setup.sh dosyasını çalıştırmanız gerekiyor. Setup.sh yüklendikten sonra açılan programları kapatıp .app uzantılı dosya ile programı açabilirsiniz. Tekrar lisanslamanıza gerek yok.
 
-16- İyi kullanımlar :)
+16- Uygulamalarınızın arasında gözükmesi için .app Uzantılı dosyayı kopyalayıp Finder'dan Uygulamalar kısmına yapıştırabilirsiniz. Dock'a da sürükleyebilirsiniz. 
 
+17- Herkesin yapabileceği biçimde anlattım. Hata alan veyahut sorusu olan bana ulaşabilir. İyi kullanımlar :)
 
 
 
